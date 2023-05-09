@@ -6,7 +6,7 @@
 * git에 project 를 `push(Upload)` 했을때 안내메시지등을 보여주는 파일
 * mark down 문법을 사용하여 간단한 문서를 작성하기
 
-## local flolder 를 local Repository 로 생성하기
+## local folder 를 local Repository 로 생성하기
 * bash shell `git init` 명령으로 생성
 * `.git` 폴더를 생성하는 명령이다
 
